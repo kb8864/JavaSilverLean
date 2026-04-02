@@ -1,5 +1,5 @@
 package ex26;
 
 public class Parent {
-	 int num  = 10;
+	protected int num  = 10;
 }
